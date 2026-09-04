@@ -1,22 +1,24 @@
 about:
-  description: NextTrace, an open source visual route tracking CLI tool
+  description:
+  |
+    NextTrace, an open source visual route tracking CLI tool
   license: GPL-3.0
   homepage: https://www.nxtrace.org
   head: 40ac803
   archived: false
   latestVersion: v1.7.3
-  collectedAt: 2026-09-04T02:10:47Z
+  collectedAt: 2026-09-04T19:18:34Z
 timeline:
   created: 2022-05-11
   lastCommit: 2026-08-21
   lastRelease: 2026-08-26
 popularity:
-  star: 8140
+  star: 8139
   watcher: 27
-  fork: 490
+  fork: 491
   release: 94
   contributor: 26
-  pullRequest: 33
+  pullRequest: 163
   issue: 146
 language:
   Go: 1856624
@@ -25,7 +27,7 @@ language:
   PowerShell: 40392
   CSS: 8694
   HTML: 4312
-totalLine: 2019305
+totalBytes: 2019305
 recent:
   last30d:
     since: 2026-08-05
@@ -35,6 +37,14 @@ recent:
     closedIssue: 1
     openIssue: 0
     commit: 19
+  last60d:
+    since: 2026-07-06
+    release: 2
+    mergedPR: 5
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 50
   last90d:
     since: 2026-06-06
     release: 3
@@ -59,3 +69,21 @@ recent:
     closedIssue: 12
     openIssue: 0
     commit: 377
+  last720d:
+    since: 2024-09-14
+    release: 16
+    mergedPR: 41
+    openPR: 0
+    closedIssue: 43
+    openIssue: 0
+    commit: 635
+total:
+  release: 94
+  mergedPR: 130
+  openPR: 0
+  closedIssue: 146
+  openIssue: 0
+  commit: 1506
+---
+---
+
