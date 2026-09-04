@@ -7,7 +7,7 @@ about:
   head: 40ac803
   archived: false
   latestVersion: v1.7.3
-  collectedAt: 2026-09-04T19:18:34Z
+  collectedAt: 2026-09-04T21:15:13Z
 timeline:
   created: 2022-05-11
   lastCommit: 2026-08-21
@@ -85,5 +85,53 @@ total:
   openIssue: 0
   commit: 1506
 ---
+path: /home/runner/.x-repo/github.com/nxtrace/NTrace-core
+collectedAt: 2026-09-04T21:15:13Z
+loc:
+  Go:
+    code: 57019
+    comments: 2039
+    blanks: 6908
+    files: 264
+  JavaScript:
+    code: 1885
+    comments: 1
+    blanks: 104
+    files: 9
+  Sh:
+    code: 1206
+    comments: 10
+    blanks: 87
+    files: 5
+  PowerShell:
+    code: 853
+    comments: 1
+    blanks: 12
+    files: 1
+  Css:
+    code: 440
+    comments: 0
+    blanks: 82
+    files: 1
+  Html:
+    code: 102
+    comments: 0
+    blanks: 11
+    files: 1
+  Yaml:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 1919
+    blanks: 837
+    files: 14
+total:
+  code: 62184
+  comments: 4450
+  blanks: 8221
+  files: 297
 ---
 
