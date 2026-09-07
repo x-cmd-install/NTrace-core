@@ -5,13 +5,13 @@ about:
   head: 8884923
   archived: false
   latestVersion: "v1.7.3"
-  collectedAt: 2026-09-07T04:39:22Z
+  collectedAt: 2026-09-07T19:44:26Z
 timeline:
   created: 2022-05-11
   lastCommit: 2026-09-06
   lastRelease: 2026-08-26
 popularity:
-  star: 8148
+  star: 8152
   watcher: 28
   fork: 492
   release: 94
@@ -32,59 +32,59 @@ recent:
     release: 2
     mergedPR: 4
     openPR: 0
-    closedIssue: 1
-    openIssue: 6
-    commit: 0
+    closedIssue: 5
+    openIssue: 2
+    commit: 121
   last60d:
     since: 2026-07-09
     release: 2
     mergedPR: 7
     openPR: 0
-    closedIssue: 1
-    openIssue: 6
-    commit: 0
+    closedIssue: 5
+    openIssue: 2
+    commit: 158
   last90d:
     since: 2026-06-09
     release: 3
     mergedPR: 8
     openPR: 0
-    closedIssue: 1
-    openIssue: 6
-    commit: 0
+    closedIssue: 5
+    openIssue: 2
+    commit: 165
   last180d:
     since: 2026-03-11
     release: 8
     mergedPR: 18
     openPR: 0
-    closedIssue: 4
-    openIssue: 6
-    commit: 0
+    closedIssue: 8
+    openIssue: 2
+    commit: 300
   last360d:
     since: 2025-09-12
     release: 10
     mergedPR: 30
     openPR: 0
-    closedIssue: 12
-    openIssue: 6
-    commit: 0
+    closedIssue: 16
+    openIssue: 2
+    commit: 481
   last720d:
     since: 2024-09-17
     release: 16
     mergedPR: 43
     openPR: 0
-    closedIssue: 42
-    openIssue: 6
+    closedIssue: 46
+    openIssue: 2
     commit: 760
 total:
   release: 94
   mergedPR: 132
   openPR: 0
-  closedIssue: 146
-  openIssue: 6
+  closedIssue: 150
+  openIssue: 2
   commit: 1631
 ---
 path: /home/runner/.x-repo/github.com/nxtrace/NTrace-core
-collectedAt: 2026-09-07T04:39:24Z
+collectedAt: 2026-09-07T19:44:28Z
 loc:
   Go:
     code: 70546
@@ -140,7 +140,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:39:26+00:00
+  collectedAt: 2026-09-07T19:44:28+00:00
   platform:
     darwin/arm64:
       name:  ntr_darwin_arm64
