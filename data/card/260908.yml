@@ -5,13 +5,13 @@ about:
   head: 8884923
   archived: false
   latestVersion: "v1.7.3"
-  collectedAt: 2026-09-08T01:54:50Z
+  collectedAt: 2026-09-08T04:29:20Z
 timeline:
   created: 2022-05-11
   lastCommit: 2026-09-06
   lastRelease: 2026-08-26
 popularity:
-  star: 8152
+  star: 8151
   watcher: 28
   fork: 492
   release: 94
@@ -84,7 +84,7 @@ total:
   commit: 1631
 ---
 path: /home/runner/.x-repo/github.com/nxtrace/NTrace-core
-collectedAt: 2026-09-08T01:54:52Z
+collectedAt: 2026-09-08T04:29:21Z
 loc:
   Go:
     code: 70546
