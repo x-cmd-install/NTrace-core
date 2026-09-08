@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 11841698,
       "digest": "sha256:ab8a90030513831a86ce357f142189f218f8007ccbc5603b1a5b347f36daf3ba",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-08-23T16:16:47Z",
       "updated_at": "2026-08-23T16:16:50Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/nexttrace-tiny_dragonfly_amd64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 11141292,
       "digest": "sha256:ef47c8e102c446c216a0caf6962561da12a6488c1748266ac46053deb96897b4",
-      "download_count": 8,
+      "download_count": 26,
       "created_at": "2026-08-23T16:16:47Z",
       "updated_at": "2026-08-23T16:16:50Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/nexttrace-tiny_freebsd_armv7"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 4243888,
       "digest": "sha256:ba31a59e5aa8a51591c3f955b6bdd564e3059a1bb540fd24f36648e00b4653ee",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-23T16:16:47Z",
       "updated_at": "2026-08-23T16:16:48Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/nexttrace-tiny_linux_386"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4528784,
       "digest": "sha256:52b4a69aa2108332f53ca2e73ffdb2937cb6cf80a6f1730765fe2209ca720f7d",
-      "download_count": 162,
+      "download_count": 169,
       "created_at": "2026-08-23T16:16:47Z",
       "updated_at": "2026-08-23T16:16:48Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/nexttrace-tiny_linux_amd64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 4116388,
       "digest": "sha256:10c8a06c9f516b737c82a2c7ce6571e3a1165bf420805b508f384af277f31147",
-      "download_count": 71,
+      "download_count": 72,
       "created_at": "2026-08-23T16:16:47Z",
       "updated_at": "2026-08-23T16:16:48Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/nexttrace-tiny_linux_arm64"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 11337890,
       "digest": "sha256:93c6c25eaac5b38050ac079f844e0ebd2d8ccd0c84607034b5fa91664f7eddbe",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-08-23T16:16:47Z",
       "updated_at": "2026-08-23T16:16:51Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/nexttrace-tiny_linux_armv6"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 12714177,
       "digest": "sha256:633ed7024ce2b3e292a5b61778bfb24617f22832bc0eff0eb402e0c7dee13987",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-08-23T16:16:47Z",
       "updated_at": "2026-08-23T16:16:51Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/nexttrace-tiny_linux_mips_softfloat"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 12375352,
       "digest": "sha256:38b1db462cf398356abf5472386dba474cd91d249782620b46140375ccc640ec",
-      "download_count": 119,
+      "download_count": 120,
       "created_at": "2026-08-26T22:29:41Z",
       "updated_at": "2026-08-26T22:29:42Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/nexttrace-tiny_windows_amd64.exe"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 33124512,
       "digest": "sha256:0c266dea69e718e6cbbce642a0ec0ff3c513a47298e864906aa9229252e91fb3",
-      "download_count": 57,
+      "download_count": 59,
       "created_at": "2026-08-23T16:16:47Z",
       "updated_at": "2026-08-23T16:16:53Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/nexttrace_darwin_amd64"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 30851986,
       "digest": "sha256:32d6ea209beedab088ba4e954d7e28d6bf2561991baf92633a684d1e37c2a0d1",
-      "download_count": 92,
+      "download_count": 94,
       "created_at": "2026-08-23T16:16:47Z",
       "updated_at": "2026-08-23T16:16:53Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/nexttrace_darwin_arm64"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 11384964,
       "digest": "sha256:aa75440fcdee46c16d941f48f9dabee1eb4c35bea6b739b0960fcf8307088c29",
-      "download_count": 5143,
+      "download_count": 5292,
       "created_at": "2026-08-23T16:16:47Z",
       "updated_at": "2026-08-23T16:16:50Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/nexttrace_linux_amd64"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 9839488,
       "digest": "sha256:4fbf436e2d4737e4a491e71ce3cd140a7a268d43ec94fb9ac9497aec7eda080e",
-      "download_count": 321,
+      "download_count": 334,
       "created_at": "2026-08-23T16:16:46Z",
       "updated_at": "2026-08-23T16:16:50Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/nexttrace_linux_arm64"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 30933154,
       "digest": "sha256:25ee91017f4ba3218047b690231f07ebfc613014c829fbbd679553e1ee6d0c5c",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-08-23T16:16:46Z",
       "updated_at": "2026-08-23T16:16:53Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/nexttrace_linux_armv6"
@@ -2011,7 +2011,7 @@
       "state": "uploaded",
       "size": 34930881,
       "digest": "sha256:69c721295bc6d985ece9a05a8a94604020eed8ac87c5ba09131f4c1bdc6a4ab8",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-08-23T16:16:46Z",
       "updated_at": "2026-08-23T16:16:53Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/nexttrace_linux_mips_softfloat"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 31385912,
       "digest": "sha256:69cefd72daadb3bfb05036528e613eae7fc29ce8c7af3d2f1467745c0329a1d2",
-      "download_count": 93,
+      "download_count": 94,
       "created_at": "2026-08-26T22:30:01Z",
       "updated_at": "2026-08-26T22:30:07Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/nexttrace_windows_386.exe"
@@ -2371,7 +2371,7 @@
       "state": "uploaded",
       "size": 33622328,
       "digest": "sha256:21edf0e4cdc5134133c15c802899a9c6680fd692f46ffa81fe9470ac68528825",
-      "download_count": 1068,
+      "download_count": 1092,
       "created_at": "2026-08-26T22:29:50Z",
       "updated_at": "2026-08-26T22:30:01Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/nexttrace_windows_amd64.exe"
@@ -2407,7 +2407,7 @@
       "state": "uploaded",
       "size": 30751544,
       "digest": "sha256:8f0d539c5130dd974f124083b5cfdf862523eafc7eb6e93c7fd329470c49a20d",
-      "download_count": 101,
+      "download_count": 103,
       "created_at": "2026-08-26T22:29:44Z",
       "updated_at": "2026-08-26T22:29:50Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/nexttrace_windows_arm64.exe"
@@ -2947,7 +2947,7 @@
       "state": "uploaded",
       "size": 4237060,
       "digest": "sha256:bcf767da0392db9b336a8b1bd66cc0388ac2dab157402a8d9aa20d20948033a5",
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2026-08-23T16:16:46Z",
       "updated_at": "2026-08-23T16:16:48Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/ntr_linux_armv7"
@@ -3019,7 +3019,7 @@
       "state": "uploaded",
       "size": 12714177,
       "digest": "sha256:461ae2b3e4039666a20efd5b57f035cf80d40595780a72d6c33807e5f97f34ac",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-08-23T16:16:46Z",
       "updated_at": "2026-08-23T16:16:50Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/ntr_linux_mips"
@@ -3523,7 +3523,7 @@
       "state": "uploaded",
       "size": 11642168,
       "digest": "sha256:8abf21cf7b752b11b8d4ee4d35985b8357d0cc70b27da93f5f37eafbc96245a3",
-      "download_count": 41,
+      "download_count": 42,
       "created_at": "2026-08-26T22:29:37Z",
       "updated_at": "2026-08-26T22:29:39Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/ntr_windows_386.exe"
@@ -3559,7 +3559,7 @@
       "state": "uploaded",
       "size": 12374840,
       "digest": "sha256:c893f54cf254c0e601706eb52de869719b9519ac5d30c8f537c4e05ddef31480",
-      "download_count": 99,
+      "download_count": 101,
       "created_at": "2026-08-26T22:29:36Z",
       "updated_at": "2026-08-26T22:29:37Z",
       "browser_download_url": "https://github.com/nxtrace/NTrace-core/releases/download/v1.7.3/ntr_windows_amd64.exe"
