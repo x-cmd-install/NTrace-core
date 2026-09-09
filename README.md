@@ -7,7 +7,7 @@ NextTrace, an open source visual route tracking CLI tool
 - **Latest release**: `v1.7.3` (2026-08-26)
 - **Last commit**: 2026-09-08
 - **License**: GPL-3.0
-- **Stars**: 8152 · **Forks**: 492 · **Open issues**: 152 · **Contributors**: 26
+- **Stars**: 8156 · **Forks**: 492 · **Open issues**: 152 · **Contributors**: 26
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/NTrace-core> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:40:23Z._
+_Last regenerated: 2026-09-09T19:08:39Z._
