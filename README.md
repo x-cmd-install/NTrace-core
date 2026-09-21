@@ -38,7 +38,7 @@ Total: **91,045** lines of code across **442** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,167 · **Forks**: 489 · **Open issues**: 152 · **Contributors**: 26
+- **Stars**: 8,169 · **Forks**: 489 · **Open issues**: 152 · **Contributors**: 26
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **91,045** lines of code across **442** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 1 | 5 | 0 | 7 | 0 | 156 |
-| last60d | 2026-07-22 | 2 | 8 | 0 | 7 | 0 | 199 |
-| 90d | 2026-06-22 | 2 | 10 | 0 | 7 | 0 | 205 |
-| last180d | 2026-03-24 | 7 | 19 | 0 | 10 | 0 | 325 |
-| 360d | 2025-09-25 | 10 | 33 | 0 | 18 | 0 | 522 |
-| last720d | 2024-09-30 | 16 | 46 | 0 | 47 | 0 | 814 |
+| 30d | 2026-08-22 | 1 | 5 | 0 | 7 | 0 | 154 |
+| last60d | 2026-07-23 | 2 | 8 | 0 | 7 | 0 | 180 |
+| 90d | 2026-06-23 | 2 | 10 | 0 | 7 | 0 | 204 |
+| last180d | 2026-03-25 | 7 | 19 | 0 | 10 | 0 | 325 |
+| 360d | 2025-09-26 | 10 | 33 | 0 | 18 | 0 | 522 |
+| last720d | 2024-10-01 | 16 | 46 | 0 | 47 | 0 | 814 |
 
 ## Release assets
 
@@ -168,4 +168,4 @@ Install metadata for NTrace-core lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T04:55:59Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:12:23Z._
