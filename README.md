@@ -4,7 +4,7 @@
 
 NextTrace, an open source visual route tracking CLI tool
 
-[![x-cmd/install — NTrace-core Code Quality Monitoring Repo Card](https://repo.x-cmd.io/NTrace-core.svg)](https://x-cmd.com/install/NTrace-core)
+[![x-cmd/install — NTrace-core Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/NTrace-core.svg)](https://x-cmd.com/install/NTrace-core)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **91,045** lines of code across **442** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,172 · **Forks**: 489 · **Open issues**: 152 · **Contributors**: 26
+- **Stars**: 8,175 · **Forks**: 490 · **Open issues**: 152 · **Contributors**: 26
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **91,045** lines of code across **442** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 5 | 0 | 7 | 0 | 154 |
-| last60d | 2026-07-24 | 2 | 8 | 0 | 7 | 0 | 180 |
-| 90d | 2026-06-24 | 2 | 10 | 0 | 7 | 0 | 204 |
-| last180d | 2026-03-26 | 7 | 19 | 0 | 10 | 0 | 325 |
-| 360d | 2025-09-27 | 10 | 33 | 0 | 18 | 0 | 522 |
-| last720d | 2024-10-02 | 16 | 46 | 0 | 47 | 0 | 814 |
+| 30d | 2026-08-24 | 1 | 5 | 0 | 7 | 0 | 154 |
+| last60d | 2026-07-25 | 2 | 8 | 0 | 7 | 0 | 180 |
+| 90d | 2026-06-25 | 2 | 10 | 0 | 7 | 0 | 204 |
+| last180d | 2026-03-27 | 7 | 19 | 0 | 10 | 0 | 325 |
+| 360d | 2025-09-28 | 10 | 33 | 0 | 18 | 0 | 522 |
+| last720d | 2024-10-03 | 16 | 46 | 0 | 47 | 0 | 814 |
 
 ## Release assets
 
@@ -168,4 +168,4 @@ Install metadata for NTrace-core lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:47:58Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:57:04Z._
