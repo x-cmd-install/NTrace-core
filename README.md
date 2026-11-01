@@ -14,14 +14,14 @@ x install NTrace-core
 
 ## Code insight
 
-Total: **91,045** lines of code across **442** files in the top 5 languages.
+Total: **92,087** lines of code across **450** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 84,235 | 2,401 | 8,820 | 412 |
-| Sh | 2,008 | 44 | 169 | 15 |
+| Go | 84,855 | 2,418 | 8,867 | 417 |
+| Sh | 2,007 | 44 | 169 | 15 |
 | JavaScript | 1,932 | 1 | 107 | 9 |
-| Python | 1,084 | 19 | 110 | 5 |
+| Python | 1,507 | 25 | 174 | 8 |
 | PowerShell | 921 | 3 | 12 | 1 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **91,045** lines of code across **442** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.7.5` (2026-10-26)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-10-31
 - **Assets in release**: 99
 
 ## Popularity
 
-- **Stars**: 8,261 · **Forks**: 493 · **Open issues**: 153 · **Contributors**: 26
+- **Stars**: 8,262 · **Forks**: 494 · **Open issues**: 153 · **Contributors**: 27
 
 ## Totals (cumulative)
 
-- **Releases**: 96 · **Merged PRs**: 135 · **Open PRs**: 0 · **Closed issues**: 153 · **Open issues**: 0 · **Commits**: 1685
+- **Releases**: 96 · **Merged PRs**: 136 · **Open PRs**: 0 · **Closed issues**: 153 · **Open issues**: 0 · **Commits**: 1712
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 0 | 0 | 1 | 0 | 0 |
-| last60d | 2026-09-01 | 2 | 5 | 0 | 7 | 0 | 154 |
-| 90d | 2026-08-02 | 4 | 7 | 0 | 8 | 0 | 179 |
-| last180d | 2026-05-04 | 7 | 14 | 0 | 10 | 0 | 263 |
-| 360d | 2025-11-05 | 11 | 26 | 0 | 14 | 0 | 441 |
-| last720d | 2024-11-10 | 17 | 44 | 0 | 43 | 0 | 808 |
+| 30d | 2026-10-02 | 2 | 1 | 0 | 1 | 0 | 23 |
+| last60d | 2026-09-02 | 2 | 6 | 0 | 7 | 0 | 34 |
+| 90d | 2026-08-03 | 4 | 8 | 0 | 8 | 0 | 198 |
+| last180d | 2026-05-05 | 7 | 15 | 0 | 10 | 0 | 287 |
+| 360d | 2025-11-06 | 11 | 27 | 0 | 14 | 0 | 464 |
+| last720d | 2024-11-11 | 17 | 45 | 0 | 43 | 0 | 835 |
 
 ## Release assets
 
@@ -168,4 +168,4 @@ Install metadata for NTrace-core lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:31:00Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T05:57:04Z._
